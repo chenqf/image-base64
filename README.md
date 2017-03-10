@@ -8,7 +8,7 @@ npm install image-base64 --save
 ```
 ## Usage:
 ```javascript
-var imageBase64 = require('image_base64');
+var imageBase64 = require('image-base64');
 //Local image
 imageBase64.local('./image/xxx.jpg');
 //Remote image
